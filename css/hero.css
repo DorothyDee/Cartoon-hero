@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+	font-family: Lato, Papyrus, Comic Sans;
+	line-height: 30px;
+}
+
+header{
+	background-color: white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+header img{
+	border-radius: 220px;
+	width: 400px;
+	border: 20px solid #AFFF00;
+}
+
+h1{
+	background-color: white;
+
+}
+
+
+h2{
+	font-size: 30px;
+	line-height: 40px;
+	padding: 50px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+h3{
+	text-align: left;
+}
+
+h4{
+	background-color: white;
+	font-size: 30px;
+	line-height: 40px;
+}
+
+p1{
+	font-size: 30px;
+}
+
+p2{
+	font-size: 20px;
+}
+
+ul{
+	text-align: left;
+}
+
+main{
+	max-width: 800px;
+	text-align: center;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+footer{
+	padding: 50px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
